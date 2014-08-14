@@ -1,5 +1,4 @@
 ## Backstretch Folder Images
-===
 
 If you are using backstretch you can set-up a directory like below and dynamically pull the images in the JavaScript for backstretch.
 
@@ -13,7 +12,6 @@ If you are using backstretch you can set-up a directory like below and dynamical
 ```
 
 ### Install
-===
 
 Simple put all your photos into the transitions directory and then split each page into it's on directory if different.
 
@@ -53,6 +51,5 @@ backstretchLoad('index', 'body');
 ```
 
 ### Support
-===
 
 If you are having any problems with the JavaScript - please raise an issue, if you are having problems with the PHP in banner.php - please have a look here - https://github.com/caughtrandomly/Simple-Image-Display
