@@ -1,0 +1,47 @@
+{
+
+    "name": "Backstretch Folder Images",
+    "authors": [
+
+        "Tom Hopcraft",
+        "Cory Mosey"
+
+    ],
+
+    "description": "Dynamically add images from a folder to Backstretch",
+    "main": "backstretch-init.js",
+    "repository": {
+
+        "type" : "git",
+        "url" : "https://github.com/CHEWX/backstretch-folder-images.git"
+
+    },
+
+    "keywords": [
+
+        "Slider",
+        "responsive",
+        "jQuery",
+        "Propeller",
+        "propcomm",
+        "propeller",
+        "propcom",
+        "backstretch"
+
+    ],
+
+    "license": "Public",
+    "homepage": "https://github.com/CHEWX/backstretch-folder-images",
+
+    "ignore" : [
+
+    ],
+
+    "install" : {
+
+        "ajax" : "fuel/app/views",
+        "backstretch-init.js" : "httpdocs/assets/js/src"
+
+    }
+
+}
