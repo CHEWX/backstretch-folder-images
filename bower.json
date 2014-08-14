@@ -39,7 +39,7 @@
 
     "install" : {
 
-        "ajax" : "fuel/app/views",
+        "ajax/banner.php" : "fuel/app/views",
         "backstretch-init.js" : "httpdocs/assets/js/src"
 
     }
